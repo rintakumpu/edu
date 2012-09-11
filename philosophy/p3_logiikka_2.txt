@@ -69,7 +69,98 @@ II. Propositiologiikka eli lauselogiikka
             \lnot A (ja \lnot B), A \land B, A \lor B, A \to B, A \equiv B
         Muita lauseita propositiologiikassa ei ole.
 
+    Luonnollisesta kielestä propositiokieleen
+
+        "Lehdet putoilevat puista" :l
+        "Sää on syksyinen" :s
+
+        a) Lehdet eivät putoile puista => Ei ole niin, että lehdet putoilevat puista => \neg l
+        b) Lehdet putoilevat puista ja sää on syksyinen => l \land s
+        c) Lehdet putoilevat puista tai sää on syksyinen => l \lor s
+        d) Jos sää on syksyinen, niin lehdet putoilevat puista => s \to l
+        e) Lehdet putoilevat puista, jos ja vain jos sää on syksyinen => s \equiv l
+
+        "Jos istun soutuveneessä ja syön jäätelö, niin ulkona ei sada."
+            "Istun soutuveneessä": s
+            "Syön jäätelöä": j
+            "Ulkona sataa": u (atomilauseet eivät sisällä kieltoja)
+            => (s \land j) \to \neg u
+            <=> (s \to (j \to \neg u))
+
+        "Pekka matkustaa tänään joko Riikaan tai Pietariin"
+            "Pekka matkustaa tänään Riikaan": r
+            "Pekka matkustaa tänään Pietariin": p
+            (r \lor p) \land \neg (r \land p)
+            <=> r \equiv \neg p (Riikaan joss ei Pietariin)
+            <=> r \veebar p <=> r \oplus p
+
+        "Silloin kun on kevät, on kaunista, ellei sada"
+            "on kevät": k
+            "on kaunista": b
+            "sataa": s
+            => Aina kun on kevät, on kaunista, jos ei sada.
+            => k \to (\neg s \to \b) <=> (k \land \neg s) \to b
+
+        "Kuntosi kohenee jos ja vain jos kveäelet paljon"
+            Paljon käveleminen on riittävä ehto ("jos")
+            Paljon käveleleminen on valttämätön ehto ("vain jos")
+            => k <=> p
+            k \equiv p
+
+        "Kuntosi kohenee vain jos kävelet paljon"
+            Jäljellä "vain jos"", siis välttämätön ehto:
+            \neg p \to \neg k <=> k \to p (p: Kävelen paljon)
+
 2. Semantiikka; totuusarvot yksittäisissä malleissa, totuustaulukot &c.
+
+    \neg p \land r; Totuusarvo mallissa
+    M1 = {p}, kielen entiteetti mallissa (asiain tilan sijaan), 
+    => Propositiokielessä maailma koostuu lauseen elementeistä
+
+    M1 \models p (double turnstile, entails, malli M1 toteuttaa p:n)
+
+    M1 \models \neg k; M1 NOT TRUE k
+    M \models \neg A joss M ei toteuta A:ta, M NOT TRUE A
+
+    M \models A \land B joss M \models A ja M \models B  
+    M \models A \lor joss M \models A tai M \models B
+    M NOT TREU A \to B joss M \models A ja M NOT TRUE B (NOT TRUE = is not true of, crossed double turnstile)
+
+    M \models A \equiv B joss M \models A ja M \models B tai tämän negaatio, eli NOT TRUE molemmille
+
+    Esimerkkejä; totuusdiagrammi (p tosi jo, koska kuuluu malliin)
+
+        M = {p, s}
+        p \lor \neg q
+        T           F/E
+                T
+            T
+
+        M = {p, s}
+        r \to p \land q
+        E     T       E
+                   E
+           T (implikaatio jonka etujäsen on epätosi, on tosi)
+
+    Totuustaulukot (maailma <=> malli)
+
+    p       \not p
+    t/1       e/0
+    e/0       t/1
+
+    p       q       p \land q       p \lor q        p \to q     p \equiv q
+    1       1       1               1               1           1 
+    1       0       0               1               0           0
+    0       1       0               1               1           0
+    0       0       0               0               1           1
+
+    Totuustaulukko lauseelle \neg(p \to p \land s)
+
+    p       s       p \land s      p \to p \land s      \neg(p \to p \land s) 
+    1       1       1              1                    0
+    1       0       0              0                    1
+    0       1       0              1                    0 
+    0       0       0              1                    0
 
 3. Päättelyteoriaa (deduktiot Suppes -säännöillä)
 4. Joitakin modaalisen propositiologiikan käsitteitä

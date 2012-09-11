@@ -1,0 +1,75 @@
+/// Kamat moodlessa, kunhan nyt vain saisi tunnukset
+/// Passu kai FIL1317
+
+(I Argumentoinnista yleisesti = Kurssin johdanto)
+=================================================
+
+1. Käsitteitä
+    - Argumentointi, rationaalisuus, dialogiargumentti, epämuodollisten argumenttien skeemoista
+
+2. Induktiivisesta päättelystä
+    - Induktion ominaisuuksia ja sen lajeja
+    - Perusteiden kiistanalaisuus
+
+3. Deduktiivisesta päättelystä
+    - Logiikka oppina deduktiosta
+    - Luonnollisen kielen moniselitteisyys ja logiikan kielten formaalisuus
+
+    Deduktiivisen argumentin vakuuttavuus (viz. validisuus)
+        - Premissien totuus?
+        - Myös epätodet premissit voivat olla vakuuttavia //
+          "Vakuuttavuuden" subjektiivisuus > Deduktion ulkopuolelle
+
+Luentokerto II 11.9.2012. PUB2
+==============================
+
+Luonnollisen kielen moniselitteisyydestä
+"Ei ole rahaa. Siis en ole lähtenyt töihin, vaikka on työvyoro." > enthymeemi >
+Minulle ei ole rahaa. Jos minulla ei ole rahaa, ei minulla ole bussilippua jne.
+> "Olen töissä toisella paikkakunnalla, jonne pääsee vain bussilla"
+
+Formalisoituna:
+
+\neg r
+\neg \to \neg b
+\neg b \to \neg t
+\neg t
+
+Herra Virtanen:
+
+1. \neg a \to (v \lor m)
+2. u
+3. \neg m
+4. \neg v \lor \neg u
+
+1: Tosista oletuksista deduktiivisesti jodhettu väite on aina tosi (A \to B)
+2: Jos johtopäätös osoittautuu epätodeksi, mutta päättely on oikea, ainakin yksi oletuksista on väistämättä epätosi
+>> Deduktiivinen ajattelu, argumentoinnin "kuningasmuoto" (sanoo luennoitsija)
+
+II. Propositiologiikka eli lauselogiikka
+----------------------------------------
+
+1. Propositiologiikan syntaksi
+
+    Propositisymbloit p,q,r,...,u,v,...
+    Konnektiivit:
+
+        negaatio \neg p "ei-p"; yksipaikkainen
+        konjunktio p \land q \land r "p ja q ja r"; osat konjunkteja
+        disjunktio p \lor q "p tai q"
+        implikaatio p \to q "jos p, niin q"; tieteen tekemisen peruste (myös väärinpäin käännetty C, \supset); vasen antesedentti, oikea konsekventti 
+        ekvivalenssi p \equiv q "p jos ja vain jos q"; iff == joss; vasen puoli, oikea puoli
+
+        Järjestyksestä: 1. \neg 2. \lor, \land 3. \to, \equiv
+
+    Propositiokielen lauseet (määritelmä)
+
+        1: Kaikki atomilauseet ovat lauseita (p, q, r &c.)
+        2: Olkoot A ja B mitä tahansa atomi- tai imolekyllilauseita. Silloin seuraavat merkkijonot ovat lauseita:
+            \lnot A (ja \lnot B), A \land B, A \lor B, A \to B, A \equiv B
+        Muita lauseita propositiologiikassa ei ole.
+
+2. Semantiikka; totuusarvot yksittäisissä malleissa, totuustaulukot &c.
+
+3. Päättelyteoriaa (deduktiot Suppes -säännöillä)
+4. Joitakin modaalisen propositiologiikan käsitteitä

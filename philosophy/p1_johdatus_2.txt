@@ -1,0 +1,110 @@
+Johdatus filosofiaan
+====================
+12.9.2012; Pub2
+
+Soberin filosofiakäsitys
+------------------------
+
+* Clarifying concepts
+* Fundamental questions of justifications
+* Filosofian kysymykset yleisluonteisia (general)
+
+Menetelmäkeskeinen filosofiakäsitys
+-----------------------------------
+
+- "Toisin kuin muut tieteenalat filosofia ei määrity niinkään kohteensa kuin menetelmiensä perusteella"
+(Rydenfelt & Kovalainen 2010)
+
+- Teoreettista, ei kokeellista tutkimusta
+- Perustelevaa eli argumentatiivista tutkimista
+- Käsitteen määrittelyä
+- Oleellista filosofialle filosofinen lähestymistapa, kysymysten ratkaisu filosofisella metodilla
+- Vastakkainen Soberille; Soberilla menetelmäkeskeisyyden vastaavuus
+  
+* Synteesin mahdollisuus? Sober/menetelmäkeskeisyys
+
+2. Filosofian metodit; Miten filosofiaa tehdään?
+================================================
+* Päämetodit argumentaatio ja käsiteanalyysi
+
+Argumentit ja argumentaatio
+---------------------------
+
+- Filosofia on luonteeltaan argumentatiivista
+- Filosofiaa tehdään muodostamalla ja arvioimalla argumentteja
+- Mikä on argumentti?
+    Purtill (1999): "A sequence of statements such that some of them (the premises)
+    purport to give reason to accept another of them, the conclusion"
+    Argumentti = perustelu, joka muodostuu kahdesta osasta, premisseistä ja johtopäätöksistä
+    Esim. 1: Ihmiset kuolevaisia
+          2: Sokrates ihminen
+          -----------------------
+          3: Sokrates kuolevainen
+
+    Argumentti koostuu väitteistä, propositioista (premissit ja [väli]johtopäätökset väitteitä)
+
+- Hyvä argumentti on rationaalisesti suostutteleva, antaa hyvän perusteen uskoa johtopäätökseen
+
+* Deduktiiviset argumentit
+    - Hyvä jos
+      1: Se on validi
+      2: Sen premissit ovat tosia TAI ainakin hyväksyttäviä
+
+    - Validius eli sitovuus, deduktiivisen argumentin premissit eivät voi olla tosia ja
+      johtopäätös epätosi
+    - JOS hyväksymme premissit, meidän on hyväksyttävä johtopäätös; argumentin validiteetti
+      > Deduktiivinen validius EI RIIPU premissien totuudesta tai epätotuudesta
+      > deduktiivinen validiteetti kuvaa argumentin seuraussuhteista
+
+    - Invalidit argumentit (deduktiivisesti invalidit)
+
+        1: Jos Petra asuu Turussa, Petra asuu Suomessa
+        2: Petra asuu Suomessa
+        ----------------------------------------------
+        3: Petra asuu Turussa
+
+        Myöskään invalidius ei riipu premissien totuudesta.
+
+        1: Kuu kiertää maata
+        2: Lehmä on nisäkäs
+        --------------------------
+        3: Niinistö on presidentti
+
+        Ei loogista seuraussuhdetta.
+
+        1: Kaikki ihmiset ovat kuolevaisia
+        2: Sokrates on kuolevainen
+        ----------------------------------
+        3: Sokrates on ihminen.
+
+    - Deduktiivinen valideetti ei takaa argumentin hyvyyttä
+    - Deduktiivisesti validi argumentti on hyvä, vain jos sen premissit ovat tosia tai hyväksyttäviä
+    - Premissien totuus ei takaa deduktiivisten validin argumentin hyvyyttä (kehäpäätelmä, toistaa vain premissin)
+    - Hyvä argumentti antaa uuden perusteen uskoa johtopäätökseensä
+
+    - Kehämäisyys ei ole ilmeistä
+        Whatley 1826: "Unbounded freedom of speech must always be ... advantageous to the State, FOR it is
+        highly conductive to the interest of the Community, THAT each individual should enjoy a liberty
+        perfectly unlimited, of expressing his sentiments."
+    - Circular reasoning == Begging the question == petitio principii
+
+    "Filosofisen argumentin ihannetapaus" (hyvä deduktiivinen argumentti)
+
+* Ei-deduktiiviset argumentit
+
+    - Ei-deduktiivisissa argumenteissa johtopäätös ei seuraa loogisesti premisseistä. On sismahdollista,
+      että premissit ovat tosia ja johtopäätös epätosi.
+    - Hyvissä ei-deduktiivisissa argumenteissa premissit *tukevat* johtopäätöstä, tekevät siihen
+      uskomisen rationaaliseksi
+    - Ei-deduktiivisissa argumenteissa premissit ovat johtopäätöstä tukevia
+
+    * Unduktiiviset argumentit
+        - Induktiivisessa yleistyksessä havaittujen tai tunnettujen yksilöiden joukkoa koskeva tietoa
+        yleistetää koskemaan laajempaa yksilöjoukkoa
+            - Havaitut tai tunnetut yksilöt = otos
+            - "60% kyselyyn vastanneista ilmoitti äänestävänsä demokraatteja 
+              >> 60% kansalaisista äänestää demokraatteja"
+        - Induktiiviset argumentit voivat olla vahvoja tai heikkoja. Vahvuus johtuu otoksen laajuudesta (1)
+          sekä edustavuudesta (2).
+
+

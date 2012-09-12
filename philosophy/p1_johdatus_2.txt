@@ -98,13 +98,33 @@ Argumentit ja argumentaatio
       uskomisen rationaaliseksi
     - Ei-deduktiivisissa argumenteissa premissit ovat johtopäätöstä tukevia
 
-    * Unduktiiviset argumentit
+    * Induktiiviset argumentit
+
         - Induktiivisessa yleistyksessä havaittujen tai tunnettujen yksilöiden joukkoa koskeva tietoa
         yleistetää koskemaan laajempaa yksilöjoukkoa
             - Havaitut tai tunnetut yksilöt = otos
             - "60% kyselyyn vastanneista ilmoitti äänestävänsä demokraatteja 
               >> 60% kansalaisista äänestää demokraatteja"
         - Induktiiviset argumentit voivat olla vahvoja tai heikkoja. Vahvuus johtuu otoksen laajuudesta (1)
-          sekä edustavuudesta (2).
+          sekä edustavuudesta.
+        - Induktiivisen ja deduktiivisen päättelyn välillä looginen ero:
+            - Jos tietty johtopäätös S seuraa deduktiivisista premisseistä P1 ... Pn, sama johtopäätös
+              seuraa myös mistä tahansa laajemmasta premissijoukosta (jos mikään premissi ei kumoa
+              toisia premissejä) >> Validi deduktiivinen päättely on kumoutumatonta
+                
+            - On mahdollista, että premissit P1...Pn tukevat induktiivisesti johtopäätöstä S, mutta samat premissit
+              täydennettyinä lisäpremisseillä Q1...Qm eivät tue väitettä S vaan sen kieltoa
+                >> Induktiivinen päättely on potentiaalisesti kumoutuvaa
 
+    * Abduktiiviset argumentit
+    
+        - Abduktio tarkoittaa selityksen keksimistä jollekin havaitulle ilmiölle tai tosiseikalle (t. joukolle tosiseikkoja)
+        - Esimerkki: Gregor Mendel (1822-1884) ja geenit
 
+            1: Herneristeytyksillä havaitaan ominaisuudet X, Y ja Z tietyssä suhteessa
+            --------------------------------------------------------------------------
+            2: On olemassa geenejä, jotka seuraavat lakeja l
+
+        - Ei sulje pois muita mahdollisia selityksiä; havainnot seuraavat selityksestä, ei päinvastoin
+        - Abduktio sinällään ei anna tietoa, mutta abduktio voi muuttua tiedoksi, jos uudet havainnot antavat sille tuke
+            - Koeteltavuuden vaatimus: Hyvä abduktio voidaan lisäevidenssillä kumota tai vahvistaa

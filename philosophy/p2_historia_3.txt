@@ -1,0 +1,95 @@
+Filosofian historia; EDU3; 14-16 17.9.2012
+==========================================
+http://philosophy.zapto.org
+
+Mikael Mela & Aristoteles
+-------------------------
+
+Aristoteleen tiedejako
+
+1. Organon (työväline); termi, jota Aristoteles ei käyttänyt, vakiintui keskiajalla
+    - Logiikka, kategoriat
+
+    // Kategoriat, olemassaolon tavat; Aristoteleella palautumattominen ("ontologiset kategoriat")
+
+        1. Substanssi; jotain mitä on !!! "arkijärjen mukaisuus"
+            >> Essentialismi, olemusoppi; ihmisyyden tekee rationalismi, essentiaalinen ominaisuus, jota ei voida ottaa pois,
+            ilman, että otetaan olemus pois > Toimimisen, muiden (aksidentaalisten) ominaisuuksien ymmärtäminen.
+            - Artefaktit vähemmän substansseja, ei perustavanlaatuisuutta
+            - Substanssien itsenäisyys? Kädet vähemmän substansseja kuin ihminen. Riippuvuus ihmisen olemassaolosta.
+            
+        2. Kvaliteetti; olemassaolevan ominaisuus
+        3. Kvantiteetti 
+        4. Relaatio; suhteet muihin substansseihin
+        5. Paikka
+        6. Aika
+        7. Positio
+        8. Omistaminen
+        9. Toimiminen
+        10. Vaikutuksenalaisuus
+
+2. Teoreettiset tieteet
+    - Metafysiikka, fysiikka, biologiset
+
+3. Käytännölliset tieteet
+    - Etiikka, politiikka
+
+4. Produktiivinen tiede
+    - Runousoppi, retoriikka
+
+Substanssien neljä syytä (cause, aition/aitia)
+
+    1. Materiaalinen syy // Artefaktit?
+
+    2. Formaalinen syy // "
+
+        Hylomorfismi; oppi materiasta ja muodosta; substanssissa aine ja muoto; muutos,
+        substanssien muuttuvuus, substantiaalinen muutos / aksidentaalinen muutos,
+        jotain säilyy >> Aristoteleella muoto == substanssi, mutta vaatii materian
+
+        Elävät olennot, muoto on sielu, on muutakin kuin materia, mutta muoto ei erotettavissa
+        materiasta (v. materialismi, Platon)
+
+        Epätäydelliset substanssit? Akvinolaiselta. G: Polttohautaus & Raamattu
+
+        Sielujen hierarkia, sielun kyvyt
+
+            1. Nutritiiviset kyvyt (kaikilla sieluilla, kyky saada ravintoa)
+            2. Liikkuminen  
+            3. Aistiminen >> aistimisesta seuraa haluaminen
+            4. Haluaminen << haluaminen vaatii aistimisen; sisäsyntyinen liike perustuu haluamiseen,
+            kivun minimointi; Erottelu sama kuin Platonilla (Valtio)
+                - Aistihalut, aistinautinnot
+                - Tunnehalut
+
+                - Rationaaliset halut; myös PÄÄMÄÄRÄSYYT (4) > Eudaimonia; onnellisuus perimmäinen
+                  päämäärä; syntyy hyveistä; toiminta, kasvatus; ihminen pyrkii aina hyvään (ts. ei voi tehdä pahaa)
+                  ("järkevä käsitys hyvästä")
+
+                    >> Ihmisen toiminnan selittäminen praktisilla syllogismeilla
+
+                        X on hyvää (halu)
+                        Y on keino X:n saavuttamiseksi (uskomus)
+                        ----------------------------------------
+                        teen Y:n (teko)
+
+                        Aristoteleella kaiken toiminnan saa aikaan halu (kausaalisuus)
+                        Kausaalisuus ja päämäärä eivät sulje toisiaan pois.
+
+                Akrasia eli heikkotahtoisuus, halut sumentavat järjen, nopea toiminta,
+                ennen järkeä (Artistoteles Etiikassa, humalatila)
+
+                >> Etiikka, kasvatus, tilannesidonnaisuus; akrasian ymmärtäminen,
+                oikean *haluaminen*; keskitien oppi t. kohtuullisuus (eg. pelkuruus-rohkeus-uhkarohkeus)
+
+            (4. Liikkuminen?)
+            5. Rationaalisuus
+
+    3. Aiheuttava syy; Mikä saa aikaan, kausaalinen syy, halu
+
+    4. Päämääräsyy (Tärkein, paitsi jos ei ole, silloin aiheuttava tärkein)
+        >> Teleologia; myös luonnossa päämäärä?
+            1: Antroposentrisyys
+            2: Jumalan rakennelma (v. mekanismi)
+
+Adekvaatinen selityksen pitää sivuta kaikkia. Aristoteleella kaikella ei päämäärää, mutta muut syyt.

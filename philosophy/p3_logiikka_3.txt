@@ -1,0 +1,28 @@
+Luentokerta II 18.9.2012. PUB2
+==============================
+
+Dijunktion totuuteen riittää, että ainakin yksi disjunkteista on tosi.
+
+A \lor B \lor C = (A \lor B) \lor C
+
+Looginen seuraus
+----------------
+
+Lause B on lauseen A looginen seuras, joss 
+B on tosi kaikissa niissä malleissa, joissa A on tosi
+
+=> Lause A \to B on tällöin loogisesti tosi
+
+Usein A on joukko lauseita, jolloin tarkastellaan A:n osalauseiden konjunktioita
+
+Validin deduktiivisen argumentin johtopäätös on premissien looginen seuraus
+=> Argumentti on validi täsmälleen silloin, kun sen johtopäätös on tosi kaikissa niissä
+malleissa, joissa sen kaikki premissit ovat tosia.
+
+"Yhdistetyt premissit ovatt etujäsenenä ja johtopäätös takajäsenenä"
+A -> B
+
+...
+Sit pitää juosta kirjallisuustieteeseen
+...
+

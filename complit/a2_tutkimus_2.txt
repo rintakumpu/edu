@@ -72,7 +72,67 @@ vrt./v. "Comparative literature"
     Mme de Staël (1766-1817); ilmastoteorian vaikutus
     Abel-Francois Villemain (1790-1870); Saksan ja Ranskan vertailu; 1812 Tukholman vierailu
     
-    Anglosaksinen maailma ei innostunut tästä komparativismista (kielen vaikutus?)
+    Anglosaksinen maailma ei innostunut tästä komparativismista (kielen vaikutus? luonnollisempaa
+    esim. Saksa/Ranskassa ja Skandinaviassa)
+
+    Komparatiivisen kirjallisuudentutkimuksen metodi / komparatiivinen metodi
+    -------------------------------------------------------------------------
+
+    1. Geneettinen tutkimus: Lähtee yhdestä kirjailijasta tai teoksesta
+        Uudistavuus suhteessa perinteeseen t. suhteessa
+        aiempiin teoksiin >> Kanonisointi
+    2. Vertaileva kirjallisuudenhistoria: kohteena laajemmat yhteydet
+        Dynaaminen liike kohti jotain uutta; jäljittely ei mielenkiintoista,
+        arvottaminen uudistamisen mukaan
+
+        >> Vaikutteiden tutkimus, todennäkisyyksien mittari (?)
+
+    Vastaavuuksien metodi == Haetaan positivismin ihanteiden mukaisestti 
+    vastaavuuksien määrää tai laatua (kuten luonnontieteessä)
+
+    Vastaavuudet ilman vaikutusta, eivät osoita sukulaisuutta (v. sattuma,
+    arkkityypit, yhteiskunnalliset olosuhteet)
+        >> Teoriat, muttei varsinaista metodioppia; kokonaisvaikutukseen ei päästy käsiksi
+        >> Yksityiskohdista ei pystytty luomaan kokonaisuutta
+        >> Imploded > kts. René Wellek: "The Crisis of Comparative Literature" (1959)
+
+    Back With a Vengeance: 
+    ----------------------
+
+    * Susan Bassnett: Comparative Literature: A Critical Introduction, monitieteellisyys
+
+    -- periaate eri kuin 1800-luvulla; nostetaan esi Goethen käsitys maailmankirjallisuudesta,
+    universaalisten arvojen mureneminen; menetelmät strukturalismista, post-strukturalismista,
+    psykoanalyysista yms. *lukija* nousee tärkeään asemaan, myös postkolonialismin vaikutus
+
+    * Franco Moretti: Conjectures on World Literature (2000) (>> Kiptt'd)
+
+    Takaisin 1800-luvulle, biografismiin/komparativismiin:
+    ------------------------------------------------------
+
+    Seurauksia: Tekstikritiikki, lähdekritiikki, kronologia, MUTTA
+    Lakien muodostamisen ongelma, ei uskallettu tehdä johtopäätöksiä
+    > Tutkimuksen atomisoituminen; "yksityiskohtiin hukkuminen"
+    > Vain filologisen aineiston aikajärjestäminen
+
+
+Positivismin vastaisia suuntauksia
+==================================
+
+Historismin ja filologisen tutkimuksen vastustaminen
+Naturalismi (lähellä positivismia) ei enää "tyydyttänyt" lukijoita
+> Symbolismi, ekspressionismi, futurismi, modernismi (luonnontieteellisen
+näkemyksen yhteensovittamisen mahdottomuus)
+
+1: Geistesgeschichte
+2. Impressionismi
+
+
+
+
+
+
+
 
 
 

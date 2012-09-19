@@ -1,0 +1,131 @@
+P7. Yhteiskuntafilosofia
+========================
+Juha Räikkä; 19.9.2012 PUB4
+
+Robert Nozick, 1938-2002
+------------------------
+
+* Pääteos Anarchy, State & Utopia (1974)
+(http://www.amazon.com/Anarchy-State-Utopia-Robert-Nozick/dp/0465097200)
+
+* Minimivaltio; libertarismi (uusliberalismi)
+* Emaisuuden suoja; entitlement-teoria, oikeudenmukaisuus => mihin olemme oikeutettuja
+(entitlement)?
+
+    > Oikeudenmukainen yhteiskunta, jossa ihmisillä se ja vain se, mihin ovat
+    oikeutettuja
+
+Proseduraalinen oikeudenmukaisuusteoria (miten prosessit menevät, ei lopputulos)
+
+Historiallinen teoria, historia ratkaisee: 
+olennaista on, miten omaisuus on hankittu (lopputuloksesta riippumatta); 
+ei tula vaatia enemmän, ei suostua vähempään
+
+Keskeiset periaatteet:
+
+1. Omaisuuden hankkimista koskevat säännöt, löytäminen, työ, perustaminen
+ovat hyväksyttäviä
+2. Omaisuuden siirtoa koskevat säännöt (kauppa, lahja, palkka ovat
+hyväksyttäviä)
+3. Edellisten rikkeitä koskevat säännöt (varastettu omaisuus palautettava,
+rikollista rangaistava)
+
+Wilt Chamberlain pelaa koripalloa ja tienaa miljoonan, kun fanit halavat
+tulla katsomaan hänen peliään: miksi näin saatua omaisuutta saiasi verottaa?
+Kyseessä ryöstö.
+
+Oikeudenmukainen distribuutio D1,
+ei vertailuja jakauman sisällä, vertailua ainoastaan historiaan,
+jolloin myös oikeudenmukainen D2
+
+   |   D1      D2      D3
+--------------------------
+A  |   10      5       9
+B  |   10      5       9
+C  |   10      5       9
+D  |   10      5       9
+WC |   10      30      14
+
+Verotettu D3 hyödyllinen, muttei *oikeudenmukainen*. > "Vero"rahoja vain 
+turvallisuuteen, ihmisiä ei saa käyttä välineinä (Kantilta),
+
+Köyhiä kohtaan voi olla *moraalisia* velvoitteita, jotka eivät koske valtioita,
+valtion tehtävä hoitaa ainoastaan oikeudenmukaisuutta t. hyödykkeiden jakautumista
+(kts. keskeiset periaatteet)
+
+Nozickilla perustana vapaus
+
+> Nozickin teoria korostaa vapaan vaihtamisen merkitysä, koska N. korostaa
+vapauden merkitystä
+
+> Vapautta ei kuitenkaan pyritä maksimoimaan (maximizing theory, vrt. utilitarismi) 
+hinnalla millä hyvänsä: vaikka kokonaisvapautta saataisiin kenties lisää rajoittamalla
+jonkun yksilön vapautta, näin ei saa tehdä
+
+Reaktio Rawlsin teokseen "A Theory of Justice" 
+(http://www.amazon.com/A-Theory-Justice-Original-Edition/dp/0674017722/)
+
+    Rawlsilla henkilön ominaisuudet sattuman kauppaa,
+    vaikka joku voisi kehittää itseään, on hänen kyky kehittää itseään seurausta
+    ulkoisista tekijöistä (Q: Entäpäs kyvyn *käyttäminen*?)
+
+    Nozickin mukaan ajattelu vie kaiken vastuun yksilöiltä ("ulkoisille tekijöille"),
+    omistamme työmme hedelmät, vaikka lahjakkuutemme olisi sattumaa (Rawlsilla yksilön kyvyt
+    sosialisoidaan)
+
+        > Onko taustalla kateus? (Nozick)
+
+Nozickin kritiikkiä
+-------------------
+
+1. Käytännön soveltaminen vaikeaa. Kaikki Yhdysvaltain ominaisuus alkuperäisasukkaille
+(tilanne D-n)?; käytännön soveltamisen ei Nozickin teorian kritiikki!
+
+2. Mihin lockelainen "alkuperäisen haltuunoton" idea lopulta perustuu? Esim. Rousseaulla
+maalla ei-kenenkään ominaisuutta ja maan hedelmät yhteistä ominaisuutta. >> Ihminen
+ei saa hyötyä työstään.
+
+3. Siirtoa koskevat säännöt äärimmäisen hankalia alistussuhteiden takia (esim.
+thaimaalaiset pikkupojat)
+
+4. Onko ihmisillä oikeus perintöihin?
+5. Miksi jotkut verot ovat hyväksyttäviä?
+
+Michael Walzer (1935)
+=====================
+
+* Spheres of Justice (1983)
+* Interpretation and Social Criticism (1987)
+* Just and Unjust Wars (1977)
+
+Kommunitarismi: yhteistön merkitys tärkeää yksilölle, pelkkä yksilön vapauden ja
+erillisyyden korostus ei riitä
+
+"A Theory of Complex Equality"
+
+Kukin hyödyke tulee jakaa sille sopivan jakokriteerin mukaisesti (pluralismi)
+
+    >> Tarve, ansio, tasa-arvo hyödykkeen jakamisen perusteita riippuen hyödykkeestä,
+    ei yksittäistä jakoperustetta
+
+Mikään yksittäinen hyödyke (raha, valta) ei saa dominoida muiden hyödykkeiden
+jakautumista (dominanssin kielto, ei monopolin kieltoa)
+
+Kullekin yhteiskunnalle ominaiset jaetut arvot märäävät jakokriteerien sisällön ja
+hyödykkeiden tärkeyden. Suhteellinen relativismi; asbstraktin filosofoinnin kielto:
+eri yhteiskunnissa eri jakokriteerit, taustalla historiallinen "shared understanding"
+
+Kysymyksiä Walzerille
+---------------------
+
+1. Kuinka realistista on olettaa, että dominanssivaikutuksilta voidaan välttyä
+(esim. raha)?
+
+2. Kuinka toivottavaa on, että dominanssivaikutukset kielletään? Esim. Suomessa
+yksityiset terveyspalvelut alas? Positiiviset hyödykkeet. 
+Lakiin kirjaamattomat rangaistusten dominanssivaikutukset? Negatiiviset hydöykkeet.
+
+3. Millä keinolla yhteisön "jaetut arvot"  (shared understanding) saadaan selville?
+Ironisoidusta "kylän vanhin" päättää? Kiistat ovat tavallisia. Tällaista tuskin koskaan ollut,
+nykyisissä yhteiskunnissa eivät edes mahdollisia.
+

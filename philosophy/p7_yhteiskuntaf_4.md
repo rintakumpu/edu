@@ -84,3 +84,22 @@ Haluaako henkilö muuttaa asemaansa? Voiko henkilö muuttaa asemaansa?
 * Uskonnolliset/etniset vähemmistöt, kategoria A
 
 Voiko uskonnollista identiteettiä vain muuttaa? Kantoja puolesta ja vastaan.
+
+###Kysymyksiä Kymlickalle:###
+
+1. Tulisiko erottaa alkuperäiskansat, immigrantit ja pakolaiset?
+2. Miten huolehtia siitä, ettei erityisoikeuksilla ole dominovaikutuksia (hyödykkeen vaikuttaminen
+toisten hyödykkeiden jakautumiseen)
+3. Onko analogia liikuntarajoitteisten ja vähemmistöjen välillä perusteltu? Kts. matriisi.
+4. Erityisoikeuksien inflaatiovaara? *Iris Marion Youngilla* "ei-sorrettuja" vain noin 2% väestöstä?
+5. Johtaako esim. naisten alistamiseen? Oikeus päättää yhteisön voimakkaimmille;
+ei-liberaaleja vähemmistöjä ei pitäisi suvaita (myös Kymlicka) &ndash; Pitääkö naisia alistavia
+kulttuureja kunnioittaa? Ei.
+
+##Vähemmistöoikeuksien perusta##
+
+* Muita argumentteja vähemmistöjen erityisoikeuksien puolesta (ei Kymlicka)
+    1. Alkuperäinen haltuunotto (alkuperäisasukkaat)
+    2. Kompensaatio (afro-amerikkalaiset, historiallinen diskriminaatio)
+    3. Argumentti yhteisöjen itseisarvosta (kulttuureja suojellaan kuten pandoja xD,
+    vaade kulttuurien kehittymöttmyydestä?)

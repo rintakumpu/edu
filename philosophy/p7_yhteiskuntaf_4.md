@@ -1,7 +1,7 @@
-= P7. Yhteiskuntafilosofia =
+# P7. Yhteiskuntafilosofia #
 _Juha Räikkä; 20.9.2012 PUB4_
 
-== **Will Kymlickan** ==
+## **Will Kymlickan** ##
 
 * [Liberalism, Community and Culture](http://www.amazon.com/Liberalism-Community-Culture-Clarendon-Paperbacks/dp/0198278713) (1989)
 * [Multicultural Citizenship](http://www.amazon.com/Multicultural-Citizenship-Liberal-Minority-Political/dp/0198290918/) (1995)
@@ -16,7 +16,7 @@ Tässä normativismi, miten pitäisi olla, ei miten on
 _Exemption laws_, esim.: ajokypärät, asevelvollisuus, metsästysoikeude, rituaaliteurastus (kollektiivinen,
 ei subjektiivinen), uimavuorot, kielioikeudet (palveluoikeudet); 
 
-=== Liberal Culturalist Position ===
+### Liberal Culturalist Position ###
 
 The autonomy of individuals &mdash; their ability to make good choices amongst good lives &mdash;
 is intimately tied up with access to their culture.
@@ -28,7 +28,7 @@ to minorities
 => Erivapauksien poistamisesta seuraa autonomian poistaminen, taustalla liberaali premissi
 (erivapaudet loukkaavat väistämättä muiden vapauksia?); vaihtoehtona integrointi
 
-=== Vähemmistöjen vaihtoehdot ===
+### Vähemmistöjen vaihtoehdot ###
 
 1. Hyväksyä integroituminen (siedettävin ehdoin tai ehdoitta)
 2. Pyrkiä luomaan oma sosiaalinen kulttuuri ja ryhtyä vaihtoehtoiseen "nation building" -projektiin (vrt. Quebec, jos
@@ -46,13 +46,13 @@ Suomeen liittämisessä)
 
 **Ed. huom!** Enemmän antamalla vähemmistöt saavat saman kuin muut.
 
-=== Tasa-arvoperustelun tulkintaa ===
+### Tasa-arvoperustelun tulkintaa ###
 
 * Kulttuurinen huono-osaisuus on
-* 1. Riittävä ehto (Kymlickan kanta)
-* 2. Välttämätön ja riittävä ehto
-* 3. Välttämätön ehto
-* 4. Relevanttia (heikko ehto
+ 1. Riittävä ehto (Kymlickan kanta)
+ 2. Välttämätön ja riittävä ehto
+ 3. Välttämätön ehto
+ 4. Relevanttia (heikko ehto
 * tiettyjen erityisoikeuksien saamisille.
 
 Analogia: Liikuntarajoitteisten oikeudet (parkkiruudut vain tietyille henkilöille)? Tasaisen
@@ -66,13 +66,13 @@ palveluun pääsyn takaamiseksi, pitää parkkipaikkahyödyke jakaa epätasaises
 pitää olla varovainen, uinti on jaettava hyödyke.
 * Enemmistön haittaaminen hyväksyttävää?
 
-== Kritiikkiä ==
+## Kritiikkiä ##
 
     A                   |                   B
                         |
     Voi, muttei halua   | Ei voi, eikä halua
                         |
-    -----------------------------------------
+    ------------------------------------------
                         |
     Voi ja haluaa       | Ei voi, mutta haluaa
                         |
@@ -83,3 +83,4 @@ Haluaako henkilö muuttaa asemaansa? Voiko henkilö muuttaa asemaansa?
 * Liikuntarajoitteiset, kategoria D
 * Uskonnolliset/etniset vähemmistöt, kategoria A
 
+Voiko uskonnollista identiteettiä vain muuttaa? Kantoja puolesta ja vastaan.

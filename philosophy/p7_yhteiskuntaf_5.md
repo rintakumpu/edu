@@ -125,7 +125,7 @@ sellaisia, että ne on perusteltu tai että ne ainakin voitaisiin perustella vii
 "jaettuihin" arvoihin ja uskomuksiin. 
 
 (Uskonnollisten argumenttien ongelma:: Uskonnollinen kansalaiskeskustelu &to;
-Uskonnolliset lait)
+Uskonnolliset lait; Toisaalta vaarana myös argumenttien trivialisoituminen)
 
 Sopii hyvin länsimaisiin yhteiskuntiin, mutta argumentilla ei voida "puhdistaa"
 esim. iranilaista diskurssia uskonnollisesta keskustelusta.

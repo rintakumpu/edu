@@ -47,7 +47,7 @@ Objektiivisuuden vaade, keskittyminen sanataideteosten sisäisiin ominaisuuksiin
 
 Kirjallisuuden lukemisen opettaminen, **Cleanth Brooks** &amp; **Robert Penn Warren**,
 _Understanding Poetry_ 1938 (myöh. drama, novel) 
-&to; lähiluku (_close reading_) keskeiseksi metodiksi yliopistoihin
+&rarr; lähiluku (_close reading_) keskeiseksi metodiksi yliopistoihin
 
 Vaikutteita englantilaisesta estetiikasta (**I.A. Richards**), englannin kautta
 uuskritiikki yleislänsimaiseksi metodiksi. Tekstin moniselitteisyyden korostaminen, 
@@ -61,7 +61,7 @@ Elliotin historiakäsitys, traditiot tärkeitä, mutta traditio ei merkitse
 kronologista jatkumoa; mennyt läsnä nykyhetkessä
 
 Elliotin ajatus kirjallisesta, ajattomasta hierarkiasta
-&to; kirjailijan vertailukohtana kuolleet kirjalilijat; elävät ja kuolleet
+&rarr; kirjailijan vertailukohtana kuolleet kirjalilijat; elävät ja kuolleet
 kirjailevat hierarkiassa samoista paikoista, ennakoi _autonomiateoriaa_ (epähistoriallinen vertailu)
 
 **I.A. Richards** (1893&ndash;1979)
@@ -69,7 +69,7 @@ kirjailevat hierarkiassa samoista paikoista, ennakoi _autonomiateoriaa_ (epähis
 Kirjallisuuden suhde lukijaan, positivistinen haave tieteen eksaktiudesta (ei kuitenkaan 
 positivismin biografisia syy-yhteksiä, &amp;c.), kokeellisen psykologian metodit, lukemisen vastaanotto,
 omien kokeidensa pohjalta päätyi tulokseen, että analyyttisen lukemisen opettamista pitää lisätä
-&to; yhteys uuskritiikkiin (samalla kirjallisuuskritiikin demokratisointi!)
+&rarr; yhteys uuskritiikkiin (samalla kirjallisuuskritiikin demokratisointi!)
 
 Kirjallinen kokemus erilainen ihmisen muusta kokemuksesta, kirjallinen kokemus erityisen
 arvokas, taustalla ihmisen tarpeet (psykologiset tarpeet), kirjailijat jäsentävät maailman
@@ -84,19 +84,19 @@ Jakoi tutkimuksen päälinjat kahteen, tekstilähtöiseen tutkimukseen (_intrins
 tutkimukseen (_extrinsic_), tiukan autonomisen, tekstidogmaattisen näkemyksen kritiikki; teksti
 suhteutetaan sekä kirjoittamishetkeen mutta myös nykyhetkeen
 
-Wellekin metodien yhdistäminen &to; perspektivismi
+Wellekin metodien yhdistäminen &rarr; perspektivismi
 
-**Uuskritiikki** ei yhtenäinen suuntaus, mutta yhteisiä tekijöitä &to; 
+**Uuskritiikki** ei yhtenäinen suuntaus, mutta yhteisiä tekijöitä &rarr; 
 
 1. _Autonomiateoria_, biografismin vastaisuus, kirjailijan intentio romanttinen (aatehistoriallisessa
 mielessä) harha, kirjailijan intentiota koskevat tiedot eivät konkreettisesti ia filosofisesti saatavilla,
 eivätkä edes toivottavia (_The Intentional Fallacy_ 1946). Uusiksi arvottamisperusteiksi kirjalliset
 arvot (eheys, yhtenäisyys, kypsyys, herkkyys &amp;c.)
 2. _Struktuuriteoria_, muoto ja sisältö liittyvät elimellisesti toisiinsa, orgaaniseksi kokonaisuudeksi,
-tärkeää miten sisältö esitetään, kirjallisen tekstin _päämääränä_ yhdistää tekstin vastakohdat &to;
+tärkeää miten sisältö esitetään, kirjallisen tekstin _päämääränä_ yhdistää tekstin vastakohdat &rarr;
 muodon ja sisällön yhtenäisyys tärkeintä; _materiaali_ sisältää ainesta sekä sisällöstä että muodosta,
 _rakenne_ on  käsite, jonka alle kuuluvat sekä muoto että sisältö, kun ne on jäsennetty esteettisiä
-tarkoitusperiä silmällä pitäen (&to; sanataideteos merkkijärjestelmänä)
+tarkoitusperiä silmällä pitäen (&rarr; sanataideteos merkkijärjestelmänä)
 
 **Uuskritiikin kritiikki**
 
@@ -131,12 +131,12 @@ futurismiin, Majakovski (&not; uuskritiikin alun teollistumisen vastustaminen)
 
 Formalisteja ei kiinnostanut symbolistinen (Mallarme, Rimbaud &amp;c.) runous, taiteilija
 ei sieluaan tarkkaileva subjekti vaan proletariaattinen taidetuotteiden valmistaja
-&to; formalismin pitää irrottaa taide mysteeristä, tarkastella "konemallin" mukaan, miten
+&rarr; formalismin pitää irrottaa taide mysteeristä, tarkastella "konemallin" mukaan, miten
 kirjalliset tekstit toimivat
 
 Formalismi vallitseva suuntaus vuoteen 1925 mennessä, mutta formalismia vastaan hyökättiin
 poliittisesti 20-luvulla (Trotski jo '23), kiellettiin Stalinin vallan vakiintuessa
-(kiellettiin 1929) &to; tutkimuskeskus siirtyi Prahaan (Huom! Wellek), myöhemmin
+(kiellettiin 1929) &rarr; tutkimuskeskus siirtyi Prahaan (Huom! Wellek), myöhemmin
 vaikutus strukturalismiin, narratologiaan
 
 Tutkimuskohde teksti sinäänsä, romantiikan ekspressiivisen realismin hylkääminen
@@ -153,5 +153,5 @@ Tutkimuskohde teksti sinäänsä, romantiikan ekspressiivisen realismin hylkää
 
 **Prahan piiri** 1926&ndash;1939 (lakkasi poliittisen painostuksen alla), tutkijat
 kielitieteilijöitä, kuten Moskovan lingvistipiirissä, ei muuttanut formalismin
-periaatteita &to; "myöhäisformalistinen" piiri
+periaatteita &rarr; "myöhäisformalistinen" piiri
 

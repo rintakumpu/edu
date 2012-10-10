@@ -11,7 +11,10 @@ yksinkertainen Descartesin lukutapa
 
 ##Tuomas Akvinolaisen Jumalan todistukset##
 
-**Liikkeeseen perustuva argumentti (aposteriori)**
+Argumentit nykyfilosofian tulkintoja Akvinolaisesta. Akvinolaisen teksti proosaa
+&rarr; argumenteissa tulkintakysymyksiä.
+
+###Liikkeeseen perustuva argumentti (aposteriori)###
 
 1. On olemassa liikkuvia objekteja
 2. Liike vaatii ulkoisen liikuttajan 
@@ -20,7 +23,7 @@ yksinkertainen Descartesin lukutapa
 5. _Siis_: Liikkumaton liikuttaja on olemassa
 6. _Siis_: Jumala on olemassa
 
-Ongelmia:
+**Ongelmia:**
 
 * Premissi 2 on Artistoteleen fysiikan mukainen, mutta uuden ajan alun fysiikka hylkää näkemyksen
 * Premissi 4: Miksei liikuttajien sarja voisi olla ääretön?
@@ -28,7 +31,7 @@ Ongelmia:
 liikumattoman liikuttajan olemassaolosta, Akvinolaisen pitäisi osoittaa, että liikkumaton liikuttaja
 voi olla vain kristinuskon Jumala.
 
-**Kausaliteettiargumentti (aposteriori)**
+###Kausaliteettiargumentti (aposteriori)###
 
 1. On olemassa syitä ja vaikutuksia
 2. Jokaiselle muutokselle on oltava syy (determinismi)
@@ -37,7 +40,7 @@ voi olla vain kristinuskon Jumala.
 5. _Siis_: On olemassa ensimmäinen syy
 6. _Siis_: Jumala on olemassa
 
-Ongelmia:
+**Ongelmia:**
 
 * Premissi 4: Miksi syiden ja vaiktuusten sarja ei voisi olla ääretön?
 * Välijohtopäätös 5: Miksi kaikki syiden ja seurausten sarjat päättyisivät yhteen ja samaan
@@ -47,7 +50,7 @@ ensimmäiseen syyhyn?
 Liikkeeseen perustuva argumentti ja kausaliteettiargumentti tuntuvat heikoilta, mutta ne on
 nähtävä keskiaikaisesta kontekstista käsin (tarkoitus antaa tukea uskovalle, ei käännyttää)
 
-**Kontingenssiargumentti**
+###Kontingenssiargumentti###
 
 _Reductio ad absurdum_ -argumentti (vrt. "oletetaan, että olet oikeassa, katsotaan, mitä siitä
 seuraa"): Väite p pyritään osoittamaan oikeaksi johtamalla
@@ -70,5 +73,60 @@ kontingentti olio &loz;o on olio, joka on mahdollinen, mutta ei välttämätön 
 11. Välttämätön olento on olemassa
 12. Jumala on olemassa
 
+**Ongelmia:**
+
+* Premissi 5: Jos jokin olento on olemassa, mutta ei ole välttämättä olemassa, niin ei voi
+olla niin, että tuo olento on ikuinen/ainainen. Olettamuksen kyseenalaisuus. Sober:
+on mahdollista, että maailmankaikkeus on muodostunut olemassaolevista atomeista, joiden olemassaolo
+ei ole välttämätöntä. Akvinolainen kannattaa runsauden periaatetta: 
+Kaikki mikä on mahdollista, toteutuu joskus. (Mikä ei toteudu koskaan on mahdotonta.)
+* Välijohtopäätös 11: Miksi välttämättömiä olentoja olisi vain yksi?
+* Johtopäätös: Miksi välttämätön olento olisi Jumala?
+
+###Suunnitteluargumentti###
+
+Suunnitteluargumentin taustalla on huomio luonnon päämääräsuuntautuneisuudesta (teleologia)
+ja erityisesti mieltä vailla olevien olentojen päämääräsuuntautuneisuudesta
+
+1. Osalla päämääräsuuntauneista olennoista on mieli, osalla ei
+2. Mieltä vailla olevan olennon päämääräsuuntautunut käyttäytyminen edellyttää sillä olevan
+suunnittelija, jolla on mieli
+3. On olemassa mieltä vailla olevien olentojen päämääräsuuntautunutta käyttäytymistä, jota
+ihmisen toiminta ei selitä
+4. On olemassa jokin yli-inhimillinen päämäärien asettaja
+5. Jumala on olemassa
+
+**David Humen** (1711&ndash;1766) kritiikki: Suunnitteluargumentti on analogia-argumentti. Vrt.
+William Paleyn (1743&ndash;1805) kello; jokin muistuttaa jotain, siksi asiat ovat samoja:
+
+1. Maailman ja kellojen välinen muistuttavuuden aste on n
+2. Kellot ovat syntyneet suunnittelun tuloksena
+3. Maailma on syntynyt suunnittelun tuloksena
+
+Hume (analogia-argumenttien kritiikki): "Kellot" (t. Akvinolaisen argumentit)
+ja maailma muistuttavat toisiaan erittäin vähän ja siksi
+sunnitteluargumentti on erittäin heikko. Humella _millainen hyvänsä_ maailma vaikuttaisi suunnitellulta,
+miksi maailma nähdään analogiseksi artefaktin eikä vaikkapa varpusen kanssa? Lisäksi: Vaikka
+maailmalle voitaisiin olettaa luoja, miksi se olisi kristinuskon Jumalan?
+
+**Elliot Soberin** kritiikki: Akvinolaisen suunnitteliargumentti on abduktiivinen (vrt. Mendelin herneet &amp; geenit, ilmiölle
+pyritään ekksimään paras mahdollinen selitys) argumentti (Paleyn argumentti _on_ suunnitteluargumentti). 
+Oletus suunnittelijasta on tarkoitettu parhaaksi selitykseksi. _Onko_ oletus suunnittelijasta paras selitys?
+
+##Pascalin vaaka##
+
+* Blaise Pascal (1623&ndash;1662)
+* Pascalin vaaka (Pascalin vedonlyönti, pelurin todistus): Onko Jumalaan uskominen rationaalista?
+* Prudentiaalinen rationaalisuus (onko "taktisesti" järkevää) v. evidentiaalinen rationaalisuus
+* Kannattava uhkapeli
+* Utiliteetti: Lopputuleman arvo, odotusarvo
+
+                    |   Jumala on olemassa  |   Jumalaa ei ole olemassa 
+    ---------------------------------------------------------------------------
+    Uskoo Jumalan   |   +&infin;            |   -10
+    olemassaoloon   |                       |
+    ---------------------------------------------------------------------------
+    Ei usko Jumalan |   -&infin;            |   +10
+    olemassaoloon   |                       |
 
 

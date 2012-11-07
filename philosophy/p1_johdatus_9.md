@@ -1,4 +1,4 @@
-#Johdatus filosofiaan; :::10.2012; Pub2#
+#Johdatus filosofiaan; 29:10.2012; Pub2#
 
 **Edellisellä luennolla**
 

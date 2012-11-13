@@ -1,9 +1,8 @@
-#Kirjallisuustieteen tutkimussuuntauksia; 16.10.2012 Mikron LS#
+#Kirjallisuustieteen tutkimussuuntauksia; 6.11.2012 Salus LS#
 
 ##Hans-Robert Jauss (1921-1997)##
 
 (Venäläisen formalismin vaikutus: normien rikkominen kaiken kirjallisuuden ominaisuus; myöhemmin muodon rikkominen vasta romantiikasta eteenpäin)
-
 Synkronisuus / diakronisuus, leikkauspisteet tärkeitä. Entisen ja nykyisen lukutavan valaiseminen, estää lukijaa näkemästä tekstejä muuttumattomina.
 
 _Odotushorisontti_:

@@ -42,7 +42,7 @@ koskevat lait 1609, 1619 (Newton johti Principiassa nämä omista laeistaan)
 * Materian luonne; atomien ja tyhjiön mahdollisuus; Newton ja Clarke atomisteja, Leibniz atomismin kriitikko
 * Liikkeen ja liikuttavan voiman luonne, mikä saa aikaan liikkeen, mikä saa aikaan maailman dynaamisuuden? Leibniz keskeisiä materian passiivisuuden kriitikoita, _voiman_ käsite luonnonfilosofiassa.
 
-## Johdatus painovoimaan ja *** ##
+## Johdatus painovoimaan (1.), aikaan ja avaruuteen (2.) ##
 
 ###1. 
 
@@ -52,7 +52,3 @@ Leibnizilla vaikutus _unintelligeble_, postuloitu vaikutus ei hyväksyttävä (v
 
 Yksi ensimmäisiä metafysiikan ja fysiikan välisiä ongelmakohtia. Tiivistyy Newtonin vastineessa kritiikkiin, "En tee hypoteeseja". Koko
 kysymyksenasettelu on väärä, vrt. Wittgensteinin filosofian kritiikki.
-
-2. 
-
-

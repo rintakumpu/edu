@@ -3,7 +3,6 @@
 
 **Vielä kurssilla:**
 
-> 3. Dynamiikka ja voimat
 4. Kant: Vasemman ja oikean käden hanskat
 5. Erilaiset geometriat (Bernhard Riemann)
 6. Aika-avaruus
@@ -14,7 +13,7 @@
 
 ## Leibnizin relationalismi (cont'd) ##
 
-(Kirjeenvaihdon taustalla, ajatukset relaatioiden ontologisesta statuksesta, metafysiikasta)
+(Ajatukset relaatioiden ontologisesta statuksesta, metafysiikasta, ei kirjeenvaihdossa, mutta kirjeenvaihdon taustalla)
 
 **Aika:** _Systems of relations_, (ajassa) peräkkäin eksistoivien olioiden **järjestys** (_order_)
 
@@ -37,18 +36,31 @@ Kohta kolme tuntuu adekvaateimmalta tavalta kuvata ontologista rakennetta (menem
     L on metrin pituinen.
     M on puolen metrin pituinen.
 
-Näiden ei-relationaalisten tosiseikkojen vallitessa **L on pidempi kuin M**, relaatio seuraa ei-relationaalisista ominaisuuksista. 
+Näiden ei-relationaalisten tosiseikkojen vallitessa **L on pidempi kuin M**, relaatio _seuraa_ loogisesti, välttämättä ei-relationaalisista ominaisuuksista. Relationaalinen tosiseikka kuitenkin edellyttää, että L:n ja M:n pituuksia **verrataan** toisiinsa. &rarr; viittaus vaatii vertaavan subjektin (juurikin Locken ajatus) &rarr; idealistinen käänne, relaatiot subjektiivisia, ei puhuta enää (kantilaisesti) oliosta itsestään.
 
+Voisiko tosiseikoista seuraava **L on pidempi kuin M** olla metafyysinen _grounding_, perustaminen, metafyysisesti perustettavissa? Entä relaatio L on metrin päässä M:stä? Relaatio voi vallita riippumatta L:n ja M:n ominaisuuksista.
 
---------------
-Leibnizin mukaan on tarve erottaa (liikkeen kohdalla) todellinen ja suhteellinen liike (ja tästä erottaa todellinen ja suhteellinen kiihtyvyys). Miten eron tekeminen onnistuu relationalismin näkökulmasta? 
+Relaatioiden lajit: sisäinen (_internal_, L on pidempi kuin M, linkki olioiden ominaisuuksiin) / ulkoinen (_external_, L on metrin päässä M:stä, ei suoraa linkkiä olioiden ominaisuuksiin, voi muuttua vaikka olioiden sisäiset ominaisuudet eivät muutu). **Leibniz** kiistaa ulkoisten relaatioiden olemassaolon, nämäkin relaatiot palautuvat ei-relationaalisiin ominaisuuksiin, myös avaruudelliset relaatiot ovat siis sisäisiä: "no purely extrinsic denominations".
 
-**Kausaliteetilla.** Mikä saa aikaan kahden avaruusaluksen välisen **suhteellisen** kiihtyvyyden kasvun? Jos avaruusaluksen A moottori saa aikaan avaruusalusten erkanemisen, on **todellinen** syy silloin avaruusaluksessa A. (Leibnizilla siirtymä "kinetiikasta dynamiikkaan".)
+Miten avaruudellisia relaatioita voi ajatella sisäisinä?
 
-Leibnizin vastaus tuntuu toimivan avaruusalusesimerkissä, mutta kahden nuoran varassa pyörivän kuulan kohdalla ei; nuoran inertiavaikutuksen aiheuttama liike ei tuo järjestelmään epäsymmetriaa.
+1. Yleisluonteinen metafyysinen periaate: Kaikki vaikuttaa kaikkeen. Tämä yleinen totuus Leibnizilla ristiriidassa ekstrinsisten relaatioiden kanssa. &rarr; Ulkoisten relaatioiden muuttuessa pitää tapahtua jotain olioiden sisällä.
+2. Malli (luennoitsijan, Leibnizilla peilejä &amp;c.): Kaksi televisiota, jossa toisessa hevonen juoksee vasemmalle, toisessa oikealle. Näyttävät samalta hevoselta eri kuvakulmista. Televisiot representoivat maailmaa tietystä näkökulmsta (kaksi eri kameraa kentän eri laidoilla, 20m etäisyydellä toisistaan). Representaatioiden pohjalta voidaan sijoittaa nämä representaatiot avaruuteen. Televisioiden välille syntyy avaruudellinen relaatio (20m, ei televisiovastaanotinten etäisyys), joka perustuu olioiden sisäisiin ominaisuuksiin. **Jos oliot ajatellaan representationaalisiksi, niin voidaan ajatella, että niiden välille konstituoituu/rakentuu avaruudellinen järjestys.** &rarr; Avaruudellinen, relationaalinen järjestys monadien välille muodostuu niiden representaatioiden/perkeptioiden pohjalle. (Jumalan luomaa "taustaa" ei näin myöskään tarvita.)
 
-Leibnizin käsitteellinen abstrahointiprosessi: **Spatialliset relaatiot**; Ajatuskokeessa kappale A vaihtaa paikkaa, B ottaa A:n alkuperäisen paikan &rarr; **Samanpaikkaisuus**, joka on vielä relaatio &rarr; Entiteetti **paikka**, joka voidaan kuvitella myös ilman kappaleen läsnäoloa. _Ens rationis_, järjen olio (&perp; konkreettiset oliot B ja A). &rarr; **Avaruus** paikkojen kokonaisuus, myös järjen olio.
+Leibnizin metafysiikan koherenssi? Substanssit ovat samassa maailmassa, mutta vailla ekstrinsiä relaatioita tai taustalla olevaa avaruutta:
 
-(Vastaava esimerkki: Godlob Fregen matematiikanfilosofian teoksessa _Grundlagen der Arithmetik_ luvut näyttäytyvät _konkreettisina_ entiteetteinä, joihin päädytään käsitteellisesti suunnan käsitteestä, johon puolestaan päädytään relaatiokäsitteen yhdensuuntaisuus kautta. Olemassaoleva olio L1 on yhdensuuntainen L2:n kanssa. Jaetaan suorat yhdensuuntaisien joukkoihin, josta abstrahoidaan mainittu suunta, L1:n suunta on L2:n suunta, DL1=DL2.)
+    x   x
+      x
+    x   x
 
-Leibnizin Newtonin absoluuttisen avaruuden kritiikki: Newtonilla avaruus reaalinen entiteetti vaikka kyseessä _ens rationis_. (Vaikka Leibniz ei suoraan asiaa sanonut, aika ja avaruus ovat teoreettisia postulaatteja, joilla ei sitä metafyysista, ontologista asemaa, jonka Leibniz/Clarke näille antaa.) 
+Leibnizilla substanssien samassa maailmassa olemisen mahdollistaa perkeptioiden sarjojen (substanssien) välinen harmonia. Seurauksena solipsismi? Pluralistisen metafysiikan (jossa substanssit annetaan ennen maailmaa) yleinen ongelma. Ratkaisuna spinozalainen monadismi, jossa maailma ensisijainen?
+
+## Leibnizin mekanistinen luontokäsitys ja voimat ##
+
+Muita mekanistisen luontokäsityksen edustajia Descartes, ehkä Spinoza, Locke (newtonilainen fysiikka kuvaa luonnon oikein) &perp; Aristoteelis-skolastinen hylomorfismi, jossa substanssit (kissat, hevoset &amp;c.) muodostuvat materiasta ja muodosta. Muoto ~ lajiolemus; materia toissijainen, yksilöi lajiominaisuuden.
+
+Tieteellinen selittäminen Aristoteleella lähti _muodoista_ ei epämääräisestä materiasta. Luonnon selittäminen näin pluralistista. 
+
+Mekanistisessa maailmankatsomuksessa kaikkia luonnon tapahtumia voidaan selittää samoin peruskäsittein, jotka ovat ne käsitteet, joiden avulla voidaan ymmärtää aine/materia. Descartesilla materian prinsipaalinen ominaisuus on ulotteisuus (muut johdetaan tästä) &rarr; Maailma selitettävissä geometrisin käsittein. &rarr; Ajatus yhtenäisestä luonnontieteestä.
+
+Myöhempi uuden ajan mekanistinen luontokäsitys (myös Leibniz) rakentui Descartesin kritiikin varaan. Leibniz päätyi kuitenkin panorganisismiin (maailma jaettavissa äärettömiin, samalla maailma elävien olentojen hierarkia, joka jatkuu äärettömästi molempiin suuntiin) &perp; korpuskularianismi (kuten atomismi).

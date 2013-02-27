@@ -1,5 +1,5 @@
 # Etiikka I; Helena Siipi; helsii@utu.fi #
-*21.2.2013 PUB2*
+*28.2.2013 PUB2*
 
 ## Edellisellä luennolla ##
 

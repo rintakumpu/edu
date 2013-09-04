@@ -61,7 +61,7 @@ Df. **alkeistapaus**, esim. d6-heitto, alkeistapaukset ovat:
 Otosavaruus eli perusjoukko on kaikkien mahdollisten alkeistapauksien joukko &Omega; 
 
 Otosavaruus voi olla **numeroituva** tai **ylinumeroituva**. Numeroitava, jos jokaiselle alkiolle voidaan määrätä oma luonnollinen luku, esim.
-N = {0,1,2,...} t. &Omega: {1,2,3,...,6} &ndash; Ääreelliset joukot numeroituvia (mutta kaikki numeroituvat eivät ääreellisiä?)
+N = {0,1,2,...} t. &Omega; {1,2,3,...,6} &ndash; Ääreelliset joukot numeroituvia (mutta kaikki numeroituvat eivät ääreellisiä?)
 
 Ylinumeroituva, esim. reealiluvut nollan ja yhden välillä, reaktioaika liikenneturvallisuustutkimuksessa, joka on ylinumeroituva. Jos mitataan sekuntin kymmennesosan tarkkuudella (&Omega; = {0.0, ...) numeroituva.
 
@@ -77,6 +77,6 @@ Erotus A\B := A &cup; Bc.
 
 &Omega; = A &cup; Ac.
 
-Toistensa poissulkevat joukot: A intersect B == null == &Omega;c jne. jne.
+Toistensa poissulkevat joukot: A &cap; B == null == &Omega;c jne. jne.
 
 Tapahtumien poissulkevuus Ai &cap; Aj == null; i != j.

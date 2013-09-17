@@ -1,5 +1,5 @@
 #Johdatus mediatutkimukseen#
-**Veijo Hietala**; 10.9.2013; Janus
+**Veijo Hietala**; 10.9.2013; Pharma 1
 
 **Pharma 1** käytössä viikon 38. Jatkosta lisätietoja myöhemmin.
 

@@ -23,14 +23,11 @@ What makes an interpretation *a good* interpretation? **Criteria**:
 * Textual critetion (sheds light on the text itself)
 * Rhetorical criterion (well-built &amp;c.)
       
-**Thesis 1.** The scientific status of the reading does not necessarily make it more interesting.
-      **Thesis 2.** A given reading of a literary work cannot contribute to a scientific project as is. What is cognitive literary study to do? a. It can "apply" to texts
-      cognitive-scientific models (**analogical approach**). b. It can move beyound interpretation (**precessual and functional approaches**). c. It can use interpretation in
-      a heuristic way (**thematic approach**)
+**Thesis 1.** The scientific status of the reading does not necessarily make it more interesting. **Thesis 2.** A given reading of a literary work cannot contribute to a scientific project as is. What is cognitive literary study to do? a. It can "apply" to texts cognitive-scientific models (**analogical approach**). b. It can move beyound interpretation (**precessual and functional approaches**). c. It can use interpretation in a heuristic way (**thematic approach**)
       
-      **Analogical approach**
-      
-      Literature can be used to illustrate or exemplify a more general point about the workings of the human mind. *Analogical* in a sense that it presupposese an affinity between
+**Analogical approach**
+
+Literature can be used to illustrate or exemplify a more general point about the workings of the human mind. *Analogical* in a sense that it presupposese an affinity between
       actual and historical and literary minds. Can result in novel readings, but metacognitive potential is fairly limited, fiction as ancillary to a cognitive-scientific model.
       (eg. Herman's reading of Joyce, modernist fiction actually foregrounds the embedding of mind in an organism that interacts with its surrounding, contra the usual reading
       focused on the life of the mind.)
